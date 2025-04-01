@@ -9,7 +9,7 @@ Highly active telegram and WhatsApp users can produce hundreds of audio recordin
 # 📋 A BIT OF THEORY: What is DLP?
 
 # 🖥️ USAGE EXAMPLES: How you can use what we do?
--Scientific research - 
+Scientific research
 ---
 The Challenge:
 
@@ -19,7 +19,7 @@ The Solution:
 
 Our platform provides the linguists with access to a geographically representative dataset of audio recordings. To gain access, the team needs to propose their research project to the v3-Data-DAO community and garner sufficient support.If approved, they will not spend any extra money and will only pay for clean and ready-to-use data.
 
--AI and neuronets development-
+AI and neuronets development
 ---
 The Challenge:
 
@@ -29,13 +29,15 @@ The Solution:
 By simply requesting access to pre-categorized audio pools (segmented by language, age, occupation, etc.), the company can quickly obtain the diverse audio data needed for NPC voice acting. They can create hundreds of small request to pick up only those datasets that they really need for their character portraits.
 
 # 🌟 FUTURE: What we are planning to do?
--ML Labs-
+ML Labs
 ---
+11
 
--University collaborations-
+University collaborations
 ---
+22
 
--Ecosystem Dashboard-
+Ecosystem Dashboard
 ---
 Dashboard is not only the interface to check your audios uploaded. It is multifunctional hub built to depict the whole dao's landscape.The dashboard will be a heart of Audata, where anyone can see the project growing. And as it will be a heart of our project, we would like to deliver it to other DAOs as well. Publicity and recognition should be based on transparency from the very beginning. Ecosystem contributions - we would like to help other projects depict what they've already done as well. So, if you know how to build best user-friendly dashboards, you are welcome to help us to mass-adopt this aprooach! 
 
@@ -44,3 +46,4 @@ Dashboard is not only the interface to check your audios uploaded. It is multifu
 First of all, you can contribute to our projects and tools here, on Github. We are tracking the activity around it aalll the time. 
 Secondly, you can apply for a position in our team. If you can do something great for the future of audio science, why not to start right now? 
 Thridly, you can start a project based on raw data we collect.
+Lastly, you can just contact us to provide any kind of assistance you ar eeager to provide. You are welcome! 
