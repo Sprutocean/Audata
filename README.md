@@ -6,6 +6,11 @@ Our project leverages Vana technology to create a unique ecosystem where everyon
 
 Highly active telegram and WhatsApp users can produce hundreds of audio recordings per week. This results in thousands of recordings per user. Just several thousand participants (providers) can create the database of game-changing size: the resulting array could easily reach hundreds of thousands of minutes of audio material. This will already be enough to fuel revolutionary projects of various kinds.
 
+# How we can prove our audios have real value? 
+# How we keep the privacy of our contributors?
+# How we prepare the data for machine learning purposes?
+# How we keep the control in hands of the user? 
+
 # 📋 A BIT OF THEORY: What is DLP?
 
 # 🖥️ USAGE EXAMPLES: How you can use what we do?
