@@ -5,7 +5,14 @@ Our project leverages Vana technology to create a unique ecosystem where everyon
 
 Read below what we build, where it is used, what our tech consists of and how you personally can contribute to the new-born industry of audio data. **(spoiler: there are 10+ ways)**
 
-# 📋 QUESTIONS & ANSWERS
+# 📋 PROJECT STRUCTURE
+We setp up multirepos system so you can use any of these piece in your own project in no time: 
++ 1
++ 2
++ 3
++ 4
+
+# QUESTIONS & ANSWERS
 What exactly do we do?
 ---
 
