@@ -7,10 +7,10 @@ Read below what we build, where it is used, what our tech consists of and how yo
 
 # 📋 PROJECT STRUCTURE
 We setp up multirepos system so you can use any of these piece in your own project in no time: 
-+ 1
-+ 2
-+ 3
-+ 4
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # QUESTIONS & ANSWERS
 What exactly do we do?
