@@ -6,16 +6,23 @@ Our project leverages Vana technology to create a unique ecosystem where everyon
 Read below what we build, where it is used, what our tech consists of and how you personally can contribute to the new-born industry of audio data. **(spoiler: there are 10+ ways)**
 
 # 📋 PROJECT STRUCTURE
-We setp up multirepos system so you can use any of these piece in your own project in no time: 
-
+We set up a multi-repo system so you can use any of these pieces in your own project in no time.
 | Project | Purpose | Link to repo  | Status |
 | :---: | :---:| :---: | :---: |
-| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
+| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+| Content Cell |Content Cell  |Link will appear soon  |under construction  |
 
-# QUESTIONS & ANSWERS
-What exactly do we do?
+
+How all the elements are connected?
 ---
+1. Telegram Bot - it is the gate any user see first while joining our system. Here we provide friendly guide how to start. 
+2. Telegram MiniApp - it is our main hub to welcome new audio contributions. The UI to upload audiofiles and encrypt them, then send to Storj. 
+3. Storj - The files are kept encrypted in Storj. We use this type of storage to be able to compute data conviniently. 
+4. Proof of Contribution - it is the key element of the system, that is used to prove uloaded audio files have value. 
+5. 
 
 How do we prove our audios have real value and uniqness? 
 ---
@@ -35,10 +42,6 @@ How do we keep in privacy audios' content?
 For now, we are finishing to build the system to collect and store data in the best format. In the nearest future we will join VANA's Data Access Layer/ (link). 
 We are aimed to build the next system: buussnesses can run queries on user's data without exposing the very content of the data. The model is built, the model (the neuronet) 'reads' the content of audio files and then proivide the computed results to its owner. 
 
-How do we prepare the data for machine learning purposes?
----
-The files are kept encrypted in Storj. 
-
 How do we keep the control in hands of the user?
 ---
 Right now we are building the UI so anyone can delete the audios that were previously contributed. 
@@ -53,7 +56,7 @@ A team of linguists is researching the evolution of Spanish dialects worldwide. 
 
 **The Solution:**
 
-Our platform provides the linguists with access to a geographically representative dataset of audio recordings. To gain access, the team needs to propose their research project to the v3-Data-DAO community and garner sufficient support.If approved, they will not spend any extra money and will only pay for clean and ready-to-use data.
+Our platform provides the linguists with access to a geographically representative dataset of audio recordings. To gain access, the team needs to propose their research project to the Audata community and garner sufficient support.If approved, they will not spend any extra money and will only pay for clean and ready-to-use data.
 
 AI and neuronets development
 ---
