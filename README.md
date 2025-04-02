@@ -8,8 +8,8 @@ Read below what we build, where it is used, what our tech consists of and how yo
 # 📋 PROJECT STRUCTURE
 We setp up multirepos system so you can use any of these piece in your own project in no time: 
 
-| Project | Purpose | Link to repo  | Langauge | Status |
-| :---: | :---:| :---: | :---: |:---: |
+| Project | Purpose | Link to repo  | Status |
+| :---: | :---:| :---: | :---: |
 | Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 
