@@ -2,6 +2,7 @@
 
 # 🚀 WE ARE THE FUEL FOR AUDIO MACHINE LEARNING
 Our project leverages Vana technology to create a unique ecosystem where everyone can securely provide the personal audio content staying capable to govern it. We focus on audio files which contain spontaneous speech, represented as audio messages from Telegram and Whatsapp. That is how the system's scalability is easily achieved - by utilizing pre-existing audio data. 
+
 Read below how we create such infrastructure, where it is used, what our stak consists of and how you personally can contribute to the new-born industry of audio data. **(spoiler: there are 10+ ways)**
 
 # 📋 QUESTIONS & ANSWERS
