@@ -1,17 +1,40 @@
 # Audata (built on VANA)
 
 # 🚀 WE ARE THE FUEL FOR AUDIO MACHINE LEARNING. 
-# What exactly do we do?
 Our project leverages Vana technology to create a unique ecosystem where everyone can securely provide the personal audio content staying capable to govern it. The project focuses on the system designed to handle audio files which contain spontaneous speech, often represented as audio messages. That is how the system's scalability is easily achieved - by utilizing pre-existing audio data.
 
 Highly active telegram and WhatsApp users can produce hundreds of audio recordings per week. This results in thousands of recordings per user. Just several thousand participants (providers) can create the database of game-changing size: the resulting array could easily reach hundreds of thousands of minutes of audio material. This will already be enough to fuel revolutionary projects of various kinds.
 
-# How we can prove our audios have real value? 
-# How we keep the privacy of our contributors?
-# How we prepare the data for machine learning purposes?
-# How we keep the control in hands of the user? 
+# 📋 QUESTIONS & ANSWERS
+What exactly do we do?
+---
 
-# 📋 A BIT OF THEORY: What is DLP?
+How do we prove our audios have real value and uniqness? 
+---
+For these purposes, we use Satya Proof of Contribution created by VANA.
+Here's our modified version of the proof:
+Here are VANA's docs for further insights:
+
+We use this validator to check audio files against the following four parameters:
+
+**Authenticity**: Ensures that the data is real and unaltered.
+**Ownership**: Confirms the data belongs to the contributor.
+**Quality**: Measures the relevance and utility of the data.
+**Uniqueness**: Prevents redundant or copied data from being reused.
+
+How do we keep in privacy audios' content?
+---
+For now, we are finishing to build the system to collect and store data in the best format. In the nearest future we will join VANA's Data Access Layer/ (link). 
+We are aimed to build the next system: buussnesses can run queries on user's data without exposing the very content of the data. The model is built, the model (the neuronet) 'reads' the content of audio files and then proivide the computed results to its owner. 
+
+How do we prepare the data for machine learning purposes?
+---
+The files are kept encrypted in Storj. 
+
+How do we keep the control in hands of the user?
+---
+Right now we are building the UI so anyone can delete the audios that were previously contributed. 
+
 
 # 🖥️ USAGE EXAMPLES: How you can use what we do?
 Scientific research
@@ -34,13 +57,17 @@ The Solution:
 By simply requesting access to pre-categorized audio pools (segmented by language, age, occupation, etc.), the company can quickly obtain the diverse audio data needed for NPC voice acting. They can create hundreds of small request to pick up only those datasets that they really need for their character portraits.
 
 # 🌟 FUTURE: What we are planning to do?
-ML Labs
+Machine Learning Labs
 ---
 11
 
-University collaborations
+University incubators
 ---
 22
+
+Hackatons
+---
+Our team would like to cooperate with any size hackatons to establish new events/
 
 Ecosystem Dashboard
 ---
