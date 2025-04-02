@@ -17,10 +17,10 @@ Here are VANA's docs for further insights:
 
 We use this validator to check audio files against the following four parameters:
 
-**Authenticity**: Ensures that the data is real and unaltered.
-**Ownership**: Confirms the data belongs to the contributor.
-**Quality**: Measures the relevance and utility of the data.
-**Uniqueness**: Prevents redundant or copied data from being reused.
++ **Authenticity**: Ensures that the data is real and unaltered.
++ **Ownership**: Confirms the data belongs to the contributor.
++ **Quality**: Measures the relevance and utility of the data.
++ **Uniqueness**: Prevents redundant or copied data from being reused.
 
 How do we keep in privacy audios' content?
 ---
