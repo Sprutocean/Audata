@@ -1,9 +1,7 @@
 # Audata (built on VANA)
 
-# 🚀 WE ARE THE FUEL FOR AUDIO MACHINE LEARNING. 
-Our project leverages Vana technology to create a unique ecosystem where everyone can securely provide the personal audio content staying capable to govern it. The project focuses on the system designed to handle audio files which contain spontaneous speech, often represented as audio messages. That is how the system's scalability is easily achieved - by utilizing pre-existing audio data.
-
-Highly active telegram and WhatsApp users can produce hundreds of audio recordings per week. This results in thousands of recordings per user. Just several thousand participants (providers) can create the database of game-changing size: the resulting array could easily reach hundreds of thousands of minutes of audio material. This will already be enough to fuel revolutionary projects of various kinds.
+# 🚀 WE ARE THE FUEL FOR AUDIO MACHINE LEARNING
+Our project leverages Vana technology to create a unique ecosystem where everyone can securely provide the personal audio content staying capable to govern it. We focus on audio files which contain spontaneous speech, represented as audio messages from Telegram and Whatsapp. That is how the system's scalability is easily achieved - by utilizing pre-existing audio data. Read below how we create such infrastructure, where it is used, what our stak consists of and how you personally can contribute to the new-born industry of audio data (spoiler: there are 10+ ways)
 
 # 📋 QUESTIONS & ANSWERS
 What exactly do we do?
