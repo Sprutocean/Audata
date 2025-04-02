@@ -59,15 +59,11 @@ By simply requesting access to pre-categorized audio pools (segmented by languag
 # 🌟 FUTURE: What we are planning to do?
 Machine Learning Labs
 ---
-11
+In the nearest future we are going to build a platform that will allow any startup to get raw data, process it and get the result with no extra efforts. It is the key element of our project as it is to be a bridge beetween data we collect and the result world gets from it. 
 
-University incubators
+University incubators + hachatons for newcomers. 
 ---
-22
-
-Hackatons
----
-Our team would like to cooperate with any size hackatons to establish new events/
+We are aimed to build or support incubators that are created, run or supported by students. We are focusing on fast-growing academies in fast-developing countries, however, we would love to partner with any academic entity worldwide. The parthnership will include, first of all, our assistance on usage of the infra we built, including Labs you can read about higher. 
 
 Ecosystem Dashboard
 ---
@@ -75,7 +71,7 @@ Dashboard is not only the interface to check your audios uploaded. It is multifu
 
 
 # 🤝 CONTRIBUTING: how you can help us?
-First of all, you can contribute to our projects and tools here, on Github. We are tracking the activity around it aalll the time. 
+First of all, you can contribute to our projects and tools here, on Github. We are tracking the activity around it all the time. 
 Secondly, you can apply for a position in our team. If you can do something great for the future of audio science, why not to start right now? 
 Thridly, you can start a project based on raw data we collect.
 Lastly, you can just contact us to provide any kind of assistance you ar eeager to provide. You are welcome! 
