@@ -7,13 +7,13 @@ Read below what we build, where it is used, what our tech consists of and how yo
 
 # 📋 PROJECT STRUCTURE
 We set up a multi-repo system so you can use any of these pieces in your own project in no time.
-| Project | Purpose | Link to repo  | Status |
-| :---: | :---:| :---: | :---: |
-| Content Cell |Content Cell  |Link will appear soon  |under construction  |
-| Content Cell |Content Cell  |Link will appear soon  |under construction  |
-| Content Cell |Content Cell  |Link will appear soon  |under construction  |
-| Content Cell |Content Cell  |Link will appear soon  |under construction  |
-| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+|№| Project | Purpose | Link to repo  | Status |
+| :---: | :---:| :---: | :---: | :---: |
+|1| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+|2| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+|3| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+|4| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+|5| Content Cell |Content Cell  |Link will appear soon  |under construction  |
 
 
 How all the elements are connected?
