@@ -9,7 +9,7 @@ Read below what we build, where it is used, what our tech consists of and how yo
 We set up a multi-repo system so you can use any of these pieces in your own project in no time.
 |/| Project | Purpose | Link to repo  | Status |
 | :---: | :---:| :---: | :---: | :---: |
-|1| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+|1| Content Cell |Content Cell  |[link](https://github.com/Sprutocean/audata-vana-satya-proof)  |under construction  |
 |2| Content Cell |Content Cell  |Link will appear soon  |under construction  |
 |3| Content Cell |Content Cell  |Link will appear soon  |under construction  |
 |4| Content Cell |Content Cell  |Link will appear soon  |under construction  |
