@@ -1,3 +1,19 @@
+# Audata 🔈
+**Fueling Audio Machine Learning with Decentralized Data**  
+*A VANA-powered ecosystem for secure, user-governed audio contributions (e.g., Telegram/WhatsApp voice messages).*
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE) [![Build Status](https://img.shields.io/github/actions/workflow/status/Sprutocean/audata-main/build.yml)](https://github.com/Sprutocean/audata-main/actions)
+## Table of Contents
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Proof of Contribution](#-proof-of-contribution)
+- [Use Cases](#-use-cases)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+
+
 # Audata (built on VANA)
 
 # 🚀 WE ARE THE FUEL FOR AUDIO MACHINE LEARNING
