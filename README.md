@@ -17,10 +17,9 @@ We set up a multi-repo system so you can use any of these pieces in your own pro
 |/| Tool | Purpose | Link to repo  | Status |
 | :---: | :---:| :---: | :---: | :---: |
 |1| Proof of Contribution | validate audio files  |[link](https://github.com/Sprutocean/audata-vana-satya-proof)  |🚧 in work |
-|2| Telegram Bot | Newsletter for users | no link yet |🧪 under test |
-|3| Telegram MiniApp |  Uploading and encrypt audio files|no link yet  |🚧 in work  |
-|4| Storj Extention | Manage uploaded files |link  |🌱 not started yet|
-|5| Content Cell |Content Cell  |Link will appear soon  |🌱 not started yet |
+|2| Telegram Bot | newsletter for users | no link yet |🧪 under test |
+|3| Telegram MiniApp |  upload and encrypt audio files|no link yet  |🚧 in work  |
+|4| Storj Extention | manage uploaded files |no link yet  |🌱 not started yet|
 
 # 🔈 Proof of Contribution
 **How do we prove our audios have real value and uniqness?**
