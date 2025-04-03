@@ -43,7 +43,8 @@ How do we keep the control in hands of the user?
 Right now we are building the UI so anyone can delete the audios that were previously contributed. 
 
 
-# 🖥️ Use Cases: How you can use what we do?
+# 🖥️ Use Cases
+**How you can use what we do?**
 Scientific research
 ---
 **The Challenge:**
