@@ -1,10 +1,9 @@
-# Audata 🔈
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+# 🚀🔈 Audata
 **Fueling Audio Machine Learning with Decentralized Data**  
-*A VANA-powered ecosystem for secure, user-governed audio contributions (e.g., Telegram/WhatsApp voice messages).*
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE) [![Build Status](https://img.shields.io/github/actions/workflow/status/Sprutocean/audata-main/build.yml)](https://github.com/Sprutocean/audata-main/actions)
-## Table of Contents
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
+Our project leverages Vana technology to create a unique ecosystem where everyone can securely provide the personal audio content staying capable to govern it. We focus on audio files which contain spontaneous speech, represented as audio messages from Telegram and Whatsapp. That is how the system's scalability is easily achieved - by utilizing pre-existing audio data. 
+
+# Project Navigation: 
 - [Project Structure](#-project-structure)
 - [Proof of Contribution](#-proof-of-contribution)
 - [Use Cases](#-use-cases)
@@ -12,24 +11,15 @@
 - [Contributing](#-contributing)
 - [License](#-license)
 
-
-
-# Audata (built on VANA)
-
-# 🚀 WE ARE THE FUEL FOR AUDIO MACHINE LEARNING
-Our project leverages Vana technology to create a unique ecosystem where everyone can securely provide the personal audio content staying capable to govern it. We focus on audio files which contain spontaneous speech, represented as audio messages from Telegram and Whatsapp. That is how the system's scalability is easily achieved - by utilizing pre-existing audio data. 
-
-Read below what we build, where it is used, what our tech consists of and how you personally can contribute to the new-born industry of audio data. **(spoiler: there are 10+ ways)**
-
 # 📋 PROJECT STRUCTURE
 We set up a multi-repo system so you can use any of these pieces in your own project in no time.
-|/| Project | Purpose | Link to repo  | Status |
+|/| Tool | Purpose | Link to repo  | Status |
 | :---: | :---:| :---: | :---: | :---: |
-|1| Proof of Contribution |validate audio files  |[link](https://github.com/Sprutocean/audata-vana-satya-proof)  |under construction  |
-|2| Content Cell |Content Cell  |Link will appear soon  |under construction  |
-|3| Content Cell |Content Cell  |Link will appear soon  |under construction  |
-|4| Content Cell |Content Cell  |Link will appear soon  |under construction  |
-|5| Content Cell |Content Cell  |Link will appear soon  |under construction  |
+|1| Proof of Contribution | validate audio files  |[link](https://github.com/Sprutocean/audata-vana-satya-proof)  |🚧 In |
+|2| Content Cell |Content Cell  |Link will appear soon  |🚧 In  |
+|3| Content Cell |Content Cell  |Link will appear soon  |🚧 In  |
+|4| Content Cell |Content Cell  |Link will appear soon  |🚧 In|
+|5| Content Cell |Content Cell  |Link will appear soon  |🚧 In |
 
 
 How all the elements are connected?
