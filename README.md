@@ -42,9 +42,8 @@ How do we keep the control in hands of the user?
 ---
 Right now we are building the UI so anyone can delete the audios that were previously contributed. 
 
-
 # 🖥️ Use Cases
-**How you can use what we do?**
+
 Scientific research
 ---
 **The Challenge:**
@@ -64,7 +63,8 @@ A game development company needs diverse, high-quality audio data in multiple la
 **The Solution:**
 By simply requesting access to pre-categorized audio pools (segmented by language, age, occupation, etc.), the company can quickly obtain the diverse audio data needed for NPC voice acting. They can create hundreds of small request to pick up only those datasets that they really need for their character portraits.
 
-# 🌟 ROADMAP: What we are planning to do?
+# 🌟 ROADMAP
+**What we are planning to do?**
 Machine Learning Labs
 ---
 In the nearest future we are going to build a platform that will allow any startup to get raw data, process it and get the result with no extra efforts. It is the key element of our project as it is to be a bridge beetween data we collect and the result world gets from it. 
