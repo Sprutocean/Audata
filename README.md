@@ -1,11 +1,12 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
-# 🚀🔈 Audata
+# 🚀 Audata
 **Fueling Audio Machine Learning with Decentralized Data**  
 Our project leverages Vana technology to create a unique ecosystem where everyone can securely provide the personal audio content staying capable to govern it. We focus on audio files which contain spontaneous speech, represented as audio messages from Telegram and Whatsapp. That is how the system's scalability is easily achieved - by utilizing pre-existing audio data. 
 
 # Project Navigation: 
 - [Project Structure](#-project-structure)
 - [Proof of Contribution](#-proof-of-contribution)
+- [Privacy & Ownership](#-proof-of-contribution)
 - [Use Cases](#-use-cases)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
@@ -15,34 +16,24 @@ Our project leverages Vana technology to create a unique ecosystem where everyon
 We set up a multi-repo system so you can use any of these pieces in your own project in no time.
 |/| Tool | Purpose | Link to repo  | Status |
 | :---: | :---:| :---: | :---: | :---: |
-|1| Proof of Contribution | validate audio files  |[link](https://github.com/Sprutocean/audata-vana-satya-proof)  |🚧 In |
-|2| Content Cell |Content Cell  |Link will appear soon  |🚧 In  |
-|3| Content Cell |Content Cell  |Link will appear soon  |🚧 In  |
-|4| Content Cell |Content Cell  |Link will appear soon  |🚧 In|
-|5| Content Cell |Content Cell  |Link will appear soon  |🚧 In |
+|1| Proof of Contribution | validate audio files  |[link](https://github.com/Sprutocean/audata-vana-satya-proof)  |🚧 in work |
+|2| Telegram Bot | Newsletter for users | no link yet |🧪 under test |
+|3| Telegram MiniApp |  Uploading and encrypt audio files|no link yet  |🚧 in work  |
+|4| Storj Extention | Manage uploaded files |link  |🌱 not started yet|
+|5| Content Cell |Content Cell  |Link will appear soon  |🌱 not started yet |
 
+# 🔈 Proof of Contribution
+**How do we prove our audios have real value and uniqness?**
 
-How all the elements are connected?
----
-1. Telegram Bot - it is the gate any user see first while joining our system. Here we provide friendly guide how to start. 
-2. Telegram MiniApp - it is our main hub to welcome new audio contributions. The UI to upload audiofiles and encrypt them, then send to Storj. 
-3. Storj - The files are kept encrypted in Storj. We use this type of storage to be able to compute data conviniently. 
-4. Proof of Contribution - it is the key element of the system, that is used to prove uloaded audio files have value. 
-5. 
-
-How do we prove our audios have real value and uniqness? 
----
 For these purposes, we use Satya Proof of Contribution created by VANA.
-Here's our modified version of the proof:
-Here are VANA's docs for further insights:
-
-We use this validator to check audio files against the following four parameters:
+This validator is set up to check audio files against the following four parameters:
 
 + **Authenticity**: Ensures that the data is real and unaltered.
 + **Ownership**: Confirms the data belongs to the contributor.
 + **Quality**: Measures the relevance and utility of the data.
 + **Uniqueness**: Prevents redundant or copied data from being reused.
 
+# ✨ Privacy & Ownership
 How do we keep in privacy audios' content?
 ---
 For now, we are finishing to build the system to collect and store data in the best format. In the nearest future we will join VANA's Data Access Layer/ (link). 
@@ -53,7 +44,7 @@ How do we keep the control in hands of the user?
 Right now we are building the UI so anyone can delete the audios that were previously contributed. 
 
 
-# 🖥️ USAGE EXAMPLES: How you can use what we do?
+# 🖥️ Use Cases: How you can use what we do?
 Scientific research
 ---
 **The Challenge:**
@@ -73,7 +64,7 @@ A game development company needs diverse, high-quality audio data in multiple la
 **The Solution:**
 By simply requesting access to pre-categorized audio pools (segmented by language, age, occupation, etc.), the company can quickly obtain the diverse audio data needed for NPC voice acting. They can create hundreds of small request to pick up only those datasets that they really need for their character portraits.
 
-# 🌟 FUTURE: What we are planning to do?
+# 🌟 ROADMAP: What we are planning to do?
 Machine Learning Labs
 ---
 In the nearest future we are going to build a platform that will allow any startup to get raw data, process it and get the result with no extra efforts. It is the key element of our project as it is to be a bridge beetween data we collect and the result world gets from it. 
